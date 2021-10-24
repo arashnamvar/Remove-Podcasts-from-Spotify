@@ -1,3 +1,4 @@
+// web-ext build to generate .zip
 const podcastLabels = ['podcasts', 'Podcasts', 'Podcast', 'podcast', 'Informed', 'episodes', 'shows', 'Popular with', 'Episodes for you'];
 
 const removePodcastSections = label => {
